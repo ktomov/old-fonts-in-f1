@@ -1,0 +1,4 @@
+# Ignore those files #
+######################
+.web-extension-id
+web-ext-artifacts/
