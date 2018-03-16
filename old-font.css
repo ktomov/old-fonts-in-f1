@@ -1,0 +1,89 @@
+@font-face{
+font-family:'bentonsans';
+src:url('https://www.formula1.com/etc/designs/fom-website/fonts/bentonsans-book.eot');
+src:url('https://www.formula1.com/etc/designs/fom-website/fonts/bentonsans-book.eot#iefix') format('embedded-opentype'),
+	url('https://www.formula1.com/etc/designs/fom-website/fonts/bentonsans-book.woff2') format('woff2'),
+	url('https://www.formula1.com/etc/designs/fom-website/fonts/bentonsans-book.woff') format('woff'),
+	url('https://www.formula1.com/etc/designs/fom-website/fonts/bentonsans-book.ttf') format('truetype'),
+	url('https://www.formula1.com/etc/designs/fom-website/fonts/bentonsans-book.svg#bentonsansbook') format('svg');
+	font-weight: 500;
+	font-style:normal
+}
+
+@font-face{
+font-family:'bentonsans';
+src:url('https://www.formula1.com/etc/designs/fom-website/fonts/bentonsans-medium.eot');
+src:url('https://www.formula1.com/etc/designs/fom-website/fonts/bentonsans-medium.eot#iefix') format('embedded-opentype'),
+	url('https://www.formula1.com/etc/designs/fom-website/fonts/bentonsans-medium.woff2') format('woff2'),
+	url('https://www.formula1.com/etc/designs/fom-website/fonts/bentonsans-medium.woff') format('woff'),
+	url('https://www.formula1.com/etc/designs/fom-website/fonts/bentonsans-medium.ttf') format('truetype'),
+	url('https://www.formula1.com/etc/designs/fom-website/fonts/bentonsans-medium.svg#bentonsansmedium') format('svg');
+	font-weight:600;
+	font-style:normal
+}
+
+@font-face{
+font-family:'bentonsans';
+src:url('https://www.formula1.com/etc/designs/fom-website/fonts/bentonsans-bold.eot');
+src:url('https://www.formula1.com/etc/designs/fom-website/fonts/bentonsans-bold.eot#iefix') format('embedded-opentype'),
+	url('https://www.formula1.com/etc/designs/fom-website/fonts/bentonsans-bold.woff2') format('woff2'),
+	url('https://www.formula1.com/etc/designs/fom-website/fonts/bentonsans-bold.woff') format('woff'),
+	url('https://www.formula1.com/etc/designs/fom-website/fonts/bentonsans-bold.ttf') format('truetype'),
+	url('https://www.formula1.com/etc/designs/fom-website/fonts/bentonsans-bold.svg#bentonsansbold') format('svg');
+	font-weight:700;
+	font-style:normal
+}
+
+/* Changing all the eye-popping titles and paragraph text on home page and latest news */
+
+h1, h2, h3, h4, h5, h6, .sml-title, .md-title, .lrg-title, .sml-label, .md-label, .lrg-label {
+	font-family: "bentonsans", Helvetica, Arial, sans-serif !important;
+}
+
+.article-title .category-title {
+	font-family: "bentonsans", Helvetica, Arial, sans-serif !important;
+}
+
+.article-content .text.parbase p {
+	font-family: "Open Sans", Helvetica, Arial,  sans-serif !important;
+	font-weight: 400 !important;
+	font-size: 1.6rem !important;
+    line-height: 1.625 !important;
+}
+
+/* Wont change theese for now */
+/*
+.race-calendar .country {
+	font-family: "Open Sans", Helvetica, Arial,  sans-serif !important;
+}
+
+.tab-wrapper .tab {
+	font-family: "Open Sans", Helvetica, Arial,  sans-serif !important;
+}
+
+.standings .name {
+	font-family: "Open Sans", Helvetica, Arial,  sans-serif !important;
+}
+*/
+
+/* Some font-weight changes to match the old style */
+
+.teaser-info-title {
+    font-weight: 600 !important;
+    line-height: 1.35 !important;
+}
+
+.template-home .video-teaser .video-title {
+    font-weight: 700 !important;
+}
+
+.slide-brandpromo h1 {
+    font-size: 3.5rem !important;
+    line-height: 1.28 !important;
+}
+
+.slide-story h1 {
+    font-weight: 700 !important;
+}
+
+/* The end */
