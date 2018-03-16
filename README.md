@@ -11,9 +11,13 @@ So this all started as idea for my own needs, but asked the r/formula1 community
 ## Installation
 
 Firefox [Firefox Add-ons](https://addons.mozilla.org/en-US/firefox/addon/old-fonts-in-f1/).
+
 Chrome:
+
 a) Download extensions/chrome_old_fonts_in_f1-1.0.0.crx and drag and drop it to your browser window
+
 b) Download extensions/chrome_unpacked_old_fonts_in_f1-1.0.0.zip (if you don't trust me). Extract the archive, go to chrome://extensions/ and tick Developer mode. Then click on Load unpacked and point to the folder where you've extracted the files.
+
 c) That's if you don't trust me at ALL. Download the whole repo, extract it and delete everything besides the 3 files icon.png, manifest.json, old-font.css and use the steps above for loading unpacked extension.
 
 ## Changeslog
