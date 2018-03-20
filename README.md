@@ -14,13 +14,7 @@ Keep in mind that I do like the new font, this is why you can see it on lots of 
 
 Firefox [Firefox Add-ons](https://addons.mozilla.org/en-US/firefox/addon/old-fonts-in-f1/).
 
-Chrome:
-
-a) Download extensions/chrome_old_fonts_in_f1-1.0.0.crx go to [chrome://extensions/](chrome://extensions/) and drag and drop it to your browser window
-
-b) Download extensions/chrome_unpacked_old_fonts_in_f1-1.0.0.zip (if you don't trust me). Extract the archive, go to [chrome://extensions/](chrome://extensions/) and tick Developer mode. Then click on Load unpacked and point to the folder where you've extracted the files.
-
-c) That's if you don't trust me at ALL. Download the whole repo, extract it and delete everything besides the 3 files icon.png, manifest.json, old-font.css and use the steps above for loading unpacked extension.
+Chrome [Chrome Web Store](https://chrome.google.com/webstore/detail/old-fonts-in-f1/mlnhhmfjmlckifpnokempcpehmdnkkco)
 
 ## Changeslog
 
